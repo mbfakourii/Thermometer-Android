@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">دما سنج</string>
+    <string name="on">روشن</string>
+    <string name="Temperature">دما</string>
+    <string name="Temperature_C">0 *C</string>
+    <string name="Temperature_F">0 *F</string>
+    <string name="Humidity">رطوبت</string>
+    <string name="Humidity_Percent">0 %</string>
+    <string name="HeatIndex">شاخص گرما</string>
+    <string name="HeatIndex_C">0 *C</string>
+    <string name="HeatIndex_F">0 *F</string>
+</resources>
