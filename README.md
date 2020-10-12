@@ -3,7 +3,7 @@ get thermometer from LM_35 via ESP8266 And show in Android
 
 The language of this program is Persian.
 
-### Source Backend
+### Source Arduino
 <a href="https://github.com/mbfakourii/Thermometer-Arduino">Repositorie Arduino</a>
 
 ## Screenshots
